@@ -1,0 +1,2 @@
+Elisa is a grouping system, used to help lecturers, teachers or tutor, group up their respective students for assignments.
+Elisa tries to predict the best peers for students.
